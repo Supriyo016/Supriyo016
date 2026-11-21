@@ -1,148 +1,122 @@
 <div align="center">
 
-<a href="https://developerbro.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:172554,100:164e63&text=Supriyo%20Sarkar&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Computer%20Science%20%7C%20Research%20%7C%20Engineering&descAlignY=58&descSize=17" width="100%" alt="Supriyo Sarkar — Computer Science, Research and Engineering">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:164e63,100:0e7490&text=Supriyo%20Sarkar&fontColor=f8fafc&fontSize=54&fontAlignY=39&desc=Curious%20Mind%20%E2%80%A2%20Computer%20Science%20%E2%80%A2%20Creative%20Engineering&descAlignY=61&descSize=15" width="100%" alt="Supriyo Sarkar">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=vercel&logoColor=white)](https://developerbro.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriyo-sarkar/)
-[![Email](https://img.shields.io/badge/Email-Contact-b45309?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriyo.sarkar016@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Graduate;Machine+Learning+%7C+AI+%7C+Software+Development;Always+learning%2C+building+and+exploring." alt="Animated tagline">
 
-[About](#about) · [Research](#research) · [Selected Work](#selected-work) · [Technical Skills](#technical-skills) · [Education](#education) · [Contact](#contact)
+<p>
+  <a href="https://developerbro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/supriyo-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#achievements">Achievements</a> &nbsp;·&nbsp;
+<a href="#github-activity">GitHub Activity</a> &nbsp;·&nbsp;
+<a href="#connect">Connect</a>
 
 </div>
 
 ## About
 
-I am a Computer Science and Engineering postgraduate from **Kalyani Government Engineering College**. My work and academic interests centre on machine learning, privacy-aware AI and software engineering, with a particular interest in applying reliable learning systems to sensitive data.
+Hey! I'm **Supriyo Sarkar**, a Computer Science and Engineering postgraduate who enjoys understanding how things work and turning ideas into practical technology.
 
-My M.Tech dissertation explored **federated learning for Alzheimer's disease classification from MRI images**, combining non-IID client data with CKKS homomorphic encryption. I am interested in research opportunities that let me investigate practical, secure and dependable intelligent systems.
+I work across **machine learning, deep learning and web development**. I am particularly interested in privacy-aware AI, intelligent applications and emerging computing technologies. I enjoy exploring new tools, solving technical problems and continuously improving the way I build.
 
-- **Research interests:** Federated Learning · Privacy-Preserving Machine Learning · Medical Image Analysis · Deep Learning · Homomorphic Encryption · NLP and LLMs · Knowledge Distillation · Quantum Computing
-- **Current direction:** Doctoral research and research collaborations in machine learning and privacy-preserving AI
-- **Recognition:** WB PGET 2025 — Rank 43 · Smart India Hackathon 2022 — selected project team
+- 🎓 M.Tech in Computer Science & Engineering — Kalyani Government Engineering College
+- 🧠 Interested in AI, machine learning, privacy-preserving systems and software engineering
+- 🛠️ Enjoy building end-to-end applications and experimenting with new technologies
+- 🎯 Aspiring researcher, lifelong learner and technology enthusiast
 
-## Research
+## Tech Stack
 
-### Privacy-Preserving Alzheimer's Disease Detection for Non-IID MRI Data
+<div align="center">
 
-*M.Tech dissertation · Kalyani Government Engineering College*
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,html,css,tailwind,pytorch,tensorflow,mongodb,mysql,postgres,git,github,vscode,arduino&perline=9" alt="Programming languages, frameworks and developer tools">
 
-A comparative study of federated learning approaches for four-class Alzheimer's MRI classification, with encrypted model updates using the CKKS homomorphic encryption scheme.
+</div>
 
-| Component | Experimental setup |
+| Focus | Tools and technologies |
 |---|---|
-| Learning setting | Federated learning with five clients |
-| Data distribution | Non-IID client partitions |
-| Algorithms studied | FedAvg · FedProx · FedDyn |
-| Privacy mechanism | CKKS homomorphic encryption |
-| Models | MobileNetV2 · EfficientNetB0 · Custom CNN |
-| Evaluation | Stratified 10-fold cross-validation |
+| **Programming** | Python · C · C++ · JavaScript · TypeScript |
+| **AI / Machine Learning** | TensorFlow · PyTorch · Keras · scikit-learn · OpenCV |
+| **Web Development** | React · Next.js · HTML · CSS · Tailwind CSS |
+| **Databases** | MySQL · MongoDB · PostgreSQL |
+| **Data & Visualisation** | NumPy · Pandas · Matplotlib |
+| **Tools** | Git · GitHub · VS Code · Arduino |
+| **Areas of interest** | Deep Learning · Federated Learning · NLP · Privacy-Preserving AI · Quantum Computing |
 
-**Reported best configuration:** Custom CNN with FedAvg under CKKS encryption.
+## Achievements
 
-| Test accuracy | Macro F1-score | Macro AUC |
-|:---:|:---:|:---:|
-| **94.59%** | **94.80%** | **99.50%** |
-
-These are results from my dissertation experiments, not independently validated or peer-reviewed benchmark results.
-
-**Explore:** [Research case study and visualisations](https://developerbro.vercel.app)
-
-### Quantum Gate Performance Assessment under Superposition
-
-*B.Tech dissertation · Regent Education & Research Foundation*
-
-Studied CNOT, Toffoli, CSWAP and Peres quantum gates using Qiskit, comparing simulator outputs with IBM Quantum hardware results and examining measurement-error mitigation.
-
-## Selected Work
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Supriyo016/TourIndia">🗺️ Tour India</a></h3>
-      <p>An interactive travel discovery and planning platform covering all 28 Indian states and 8 Union Territories, with destination guides, an interactive map, cultural information and a trip planner.</p>
-      <p><a href="https://tour-india-pi.vercel.app"><strong>Live project ↗</strong></a></p>
-      <sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+    <td align="center" width="50%">
+      <h2>🏅 Rank 43</h2>
+      <strong>WB PGET 2025</strong><br>
+      <sub>West Bengal Post Graduate Entrance Test</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Supriyo016/DeveloperBro-Academic-Portfolio">🎓 DeveloperBro. Academic Portfolio</a></h3>
-      <p>My research and academic portfolio, featuring dissertation case studies, interactive research visualisations, technical writing, projects and academic information.</p>
-      <p><a href="https://developerbro.vercel.app"><strong>Live portfolio ↗</strong></a></p>
-      <sub>Next.js · React · TypeScript · Tailwind CSS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Supriyo016/Arduino-Uno-Third-Hand-Eye-Project-for-Visually-Impaired-Individuals">🦯 Third Hand-Eye</a></h3>
-      <p>A low-cost wearable obstacle-alert prototype for visually impaired users, built with an Arduino Uno, HC-SR04 ultrasonic sensor and buzzer.</p>
-      <sub>C++ · Arduino · Embedded Systems</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚛️ Quantum Computing Study</h3>
-      <p>My B.Tech dissertation investigated quantum gate behaviour under superposition using Qiskit and IBM Quantum hardware. The source repository is private.</p>
-      <sub>Python · Qiskit · IBM Quantum</sub>
+    <td align="center" width="50%">
+      <h2>🚀 SIH 2022</h2>
+      <strong>Selected Project Team</strong><br>
+      <sub>Smart India Hackathon — Tour India</sub>
     </td>
   </tr>
 </table>
 
-## Technical Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c, pytorch,tensorflow,sklearn,js,ts,react,nextjs,tailwind,html,css,mongodb,mysql,git,github,vscode,arduino&perline=9" alt="Technical skills and tools">
-
 </div>
-
-| Area | Technologies and topics |
-|---|---|
-| Programming | Python · C · C++ · JavaScript · TypeScript |
-| Machine learning | TensorFlow · PyTorch · scikit-learn · CNNs · Transfer Learning |
-| Federated and privacy-aware AI | FedAvg · FedProx · FedDyn · CKKS · Non-IID learning |
-| Computer vision | OpenCV · Medical Image Analysis |
-| Web development | React · Next.js · HTML · CSS · Tailwind CSS |
-| Data and tools | NumPy · Pandas · Matplotlib · MySQL · MongoDB · Git |
-| Quantum computing | Qiskit · IBM Quantum |
-
-## Education
-
-| Degree | Institution | Period | Result |
-|---|---|---:|---:|
-| M.Tech, Computer Science & Engineering | Kalyani Government Engineering College | 2024–2026 | **8.15 / 10** |
-| B.Tech, Computer Science & Engineering | Regent Education & Research Foundation | 2020–2024 | **8.95 / 10** |
-
-## Certifications
-
-- Deep Learning — NPTEL
-- Python for Data Science — NPTEL
-- The Joy of Computing Using Python — NPTEL
-- Soft Skills — NPTEL
-- Crash Course on Python — Google / Coursera
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Supriyo016&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub profile statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyo016&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used programming languages">
+<img src="https://komarev.com/ghpvc/?username=Supriyo016&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views">
+&nbsp;
+<img src="https://img.shields.io/github/followers/Supriyo016?label=Followers&style=flat-square&color=0e7490" alt="GitHub followers">
+&nbsp;
+<img src="https://img.shields.io/github/stars/Supriyo016?affiliations=OWNER&style=flat-square&color=0e7490&label=Repository%20Stars" alt="Repository stars">
+
+<br><br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Supriyo016&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub statistics">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyo016&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used languages">
+
+<br>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=Supriyo016&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak">
+
+<br>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Supriyo016&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=a78bfa&area=true&hide_border=true" alt="GitHub contribution activity graph">
 
 </div>
 
-## Contact
-
-I welcome conversations about **PhD opportunities, research collaborations and machine learning projects**.
-
-- **Email:** [supriyo.sarkar016@gmail.com](mailto:supriyo.sarkar016@gmail.com)
-- **LinkedIn:** [linkedin.com/in/supriyo-sarkar](https://www.linkedin.com/in/supriyo-sarkar/)
-- **Portfolio:** [developerbro.vercel.app](https://developerbro.vercel.app)
-- **GitHub:** [github.com/Supriyo016](https://github.com/Supriyo016)
+### Contribution Snake
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:164e63,100:0f172a" width="100%" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supriyo016/Supriyo016/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supriyo016/Supriyo016/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Supriyo016/Supriyo016/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-<sub>Building thoughtful technology through research, experimentation and engineering.</sub>
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://developerbro.vercel.app"><img src="https://img.shields.io/badge/Website-developerbro.vercel.app-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/supriyo-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-Supriyo%20Sarkar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Gmail-su priyo.sarkar016%40gmail.com-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Supriyo016"><img src="https://img.shields.io/badge/GitHub-Supriyo016-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
+<sub>Open to meaningful conversations, learning opportunities and research collaborations.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=105&color=0:0e7490,100:0f172a" width="100%" alt="">
 
 </div>
