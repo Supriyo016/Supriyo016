@@ -48,7 +48,7 @@ I value clear problem formulation, careful experimentation, reproducible impleme
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Supriyo016&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views">
   <img src="https://img.shields.io/github/followers/Supriyo016?style=for-the-badge&color=0E7490&label=FOLLOWERS" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Supriyo016?style=for-the-badge&color=7C3AED&label=TOTAL+STARS" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/Supriyo016/TourIndia?style=for-the-badge&color=7C3AED&label=TOUR+INDIA+STARS" alt="GitHub stars">
 </div>
 
 ## 🔬 Research Interests
@@ -264,7 +264,7 @@ I am interested in connecting with people working in:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/supriyo-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-Supriyo_Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Gmail-suprio.sarkar016-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Gmail-supriyo.sarkar016-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://x.com/Supriyo016"><img src="https://img.shields.io/badge/X-@Supriyo016-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/supriyo016/"><img src="https://img.shields.io/badge/Instagram-@supriyo016-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100070487584093"><img src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
