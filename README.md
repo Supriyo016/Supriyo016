@@ -105,7 +105,7 @@ I work across **machine learning, deep learning and web development**. I am part
 
 <a href="https://developerbro.vercel.app"><img src="https://img.shields.io/badge/Website-developerbro.vercel.app-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/supriyo-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-Supriyo%20Sarkar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Gmail-su priyo.sarkar016%40gmail.com-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Supriyo016"><img src="https://img.shields.io/badge/GitHub-Supriyo016-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
