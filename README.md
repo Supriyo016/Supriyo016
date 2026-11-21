@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Graduate;Machine+Learning+%7C+AI+%7C+Software+Development;Always+learning%2C+building+and+exploring." alt="Animated tagline">
 
-<p>
-  <a href="https://developerbro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/supriyo-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:supriyo.sarkar016@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 <a href="#about">About</a> &nbsp;·&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
 <a href="#achievements">Achievements</a> &nbsp;·&nbsp;
