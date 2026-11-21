@@ -15,7 +15,6 @@
 
 <a href="#-about-me">About</a> ·
 <a href="#-research">Research</a> ·
-<a href="#-projects">Projects</a> ·
 <a href="#-skills">Skills</a> ·
 <a href="#-github-activity">GitHub Activity</a> ·
 <a href="#-connect">Connect</a>
@@ -42,68 +41,16 @@ I’m **Supriyo Sarkar**, a Computer Science and Engineering postgraduate intere
 
 ## 🔬 Research
 
-### 🧠 M.Tech Dissertation
-**Privacy-Preserving Alzheimer’s Disease Detection for Non-IID MRI Data using Federated Learning and CKKS Encryption**
+| Degree | Dissertation | Focus |
+|---|---|---|
+| **M.Tech** | Privacy-Preserving Alzheimer’s Disease Detection from Non-IID MRI Data | FedProx · CKKS encryption (TenSEAL) · Stratified 10-Fold CV · CNN model comparison |
+| **B.Tech** | Quantum Gate Performance in the Presence of Superposition States | Quantum gate behaviour using IBM Quantum |
 
-Explored collaborative MRI classification using:
-- **FedProx** for federated optimisation across distributed clients.
-- **CKKS homomorphic encryption** with TenSEAL for privacy-aware model-update operations.
-- **Non-IID client partitions** and **Stratified 10-Fold Cross-Validation**.
-- **MobileNetV2, EfficientNetB0 and a custom CNN** for model comparison.
+**M.Tech evaluation:** MobileNetV2, EfficientNetB0 and a custom CNN; accuracy, precision, recall, F1-score and AUC.
 
-Evaluated using accuracy, precision, recall, F1-score, AUC, ROC curves and confusion matrices. This was an academic dissertation and experimental study, not a clinically validated diagnostic product or published paper.
+**Research interests:** Federated Learning · Privacy-Preserving AI · Medical Image Analysis · Non-IID Learning · Knowledge Distillation.
 
-### ⚛️ B.Tech Dissertation
-**Quantum Gate Performance Assessment in the Presence of Superposition States using IBM Quantum**
-
-Explored quantum gate behaviour and performance using IBM Quantum resources.
-
-**Areas I want to explore further:** Federated Knowledge Distillation · Dynamic Non-IID Learning · Secure Collaborative AI · Medical Image Analysis.
-
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/Supriyo016/TourIndia">
-        <img src="https://raw.githubusercontent.com/Supriyo016/TourIndia/rebuild/nextjs/docs/assets/screenshot-home.webp" width="100%" alt="Tour India preview">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>🇮🇳 <a href="https://github.com/Supriyo016/TourIndia">Tour India</a></h3>
-      A travel discovery and itinerary-planning platform covering India's destinations, culture, heritage, festivals and regional food. **Selected for Smart India Hackathon 2023.**
-      <br><sub>Next.js · React · TypeScript · Tailwind CSS · MongoDB (optional)</sub>
-      <br><a href="https://tour-india-pi.vercel.app">Live Website ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/Supriyo016/DeveloperBro-Academic-Portfolio">
-        <img src="https://raw.githubusercontent.com/Supriyo016/DeveloperBro-Academic-Portfolio/main/docs/screenshots/home-light.webp" width="100%" alt="DeveloperBro portfolio preview">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>🎓 <a href="https://github.com/Supriyo016/DeveloperBro-Academic-Portfolio">DeveloperBro. Academic Portfolio</a></h3>
-      A research-focused portfolio for presenting academic work, projects, technical writing and a CV.
-      <br><sub>Next.js · React · TypeScript · Tailwind CSS · MDX · KaTeX</sub>
-      <br><a href="https://developerbro.vercel.app">Live Website ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/Supriyo016/Arduino-Uno-Third-Hand-Eye-Project-for-Visually-Impaired-Individuals">
-        <img src="https://raw.githubusercontent.com/Supriyo016/Arduino-Uno-Third-Hand-Eye-Project-for-Visually-Impaired-Individuals/master/assets/circuit-diagram.png" width="100%" alt="Third Hand-Eye circuit">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>🦯 <a href="https://github.com/Supriyo016/Arduino-Uno-Third-Hand-Eye-Project-for-Visually-Impaired-Individuals">Third Hand-Eye</a></h3>
-      An Arduino-based obstacle-alert prototype using an ultrasonic sensor and buzzer.
-      <br><sub>Arduino Uno · C++ · HC-SR04</sub>
-      <br><a href="https://www.youtube.com/watch?v=xSJj8tTnAgg">Watch Demonstration ↗</a>
-      <br><sub>Educational prototype; not a certified mobility or safety device.</sub>
-    </td>
-  </tr>
-</table>
+<sub>These are academic dissertation studies, not published papers or clinically validated diagnostic systems.</sub>
 
 ## 🧰 Skills
 
@@ -133,8 +80,6 @@ Explored quantum gate behaviour and performance using IBM Quantum resources.
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Supriyo016&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub profile trophies">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Supriyo016&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyo016&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages">
